@@ -1,0 +1,10 @@
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/contexts/DemoAccountRepositoryFiller.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/interfaces/console/ConsoleMain.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/domain/Account.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/persistence/EntityManagerProvider.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/persistence/EntityManagerFactoryProvider.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/persistence/InMemoryAccountRepository.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/persistence/HibernateAccountRepository.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/interfaces/AuthenticationForm.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/services/AccountService.java
+/home/Viennor/Documents/glo/h15/qa/lab5/hibernate-example.base/src/main/java/ca/ulaval/glo4002/hibernate_example/domain/AccountRepository.java

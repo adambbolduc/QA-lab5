@@ -1,0 +1,10 @@
+ca/ulaval/glo4002/hibernate_example/services/AccountService.class
+ca/ulaval/glo4002/hibernate_example/interfaces/AuthenticationForm.class
+ca/ulaval/glo4002/hibernate_example/contexts/DemoAccountRepositoryFiller.class
+ca/ulaval/glo4002/hibernate_example/interfaces/console/ConsoleMain.class
+ca/ulaval/glo4002/hibernate_example/persistence/EntityManagerFactoryProvider.class
+ca/ulaval/glo4002/hibernate_example/persistence/EntityManagerProvider.class
+ca/ulaval/glo4002/hibernate_example/persistence/HibernateAccountRepository.class
+ca/ulaval/glo4002/hibernate_example/persistence/InMemoryAccountRepository.class
+ca/ulaval/glo4002/hibernate_example/domain/Account.class
+ca/ulaval/glo4002/hibernate_example/domain/AccountRepository.class
